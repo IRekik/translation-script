@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LocalizationDataExchange>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			Label_2.Title
+		</Label>
+		<fr-CA>Téléchargement de documents</fr-CA>
+		<en-US>
+			Document Upload
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			Label_4.Title
+		</Label>
+		<fr-CA>Téléchargement de chèque annulé par dépôt direct</fr-CA>
+		<en-US>
+			Direct Deposit Voided Check Upload
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			Label_6.Title
+		</Label>
+		<fr-CA>Veuillez télécharger une copie d'un chèque annulé ou une documentation vérifiant votre compte.
+informations, pour chaque compte ici.</fr-CA>
+		<en-US>
+			Please upload a copy of a voided check, or documentation verifying your account
+			information, for each account here.
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			Label_8.Title
+		</Label>
+		<fr-CA>Scannez les documents et téléchargez les fichiers. Le fichier doit être au format PDF, GIF, PNG, JPEG ou TIF
+format et ne dépassant pas 1,5 Mo.</fr-CA>
+		<en-US>
+			Scan the documents and upload the files. File must be in PDF, GIF, PNG, JPEG or TIF
+			format and not larger than 1.5 MB.
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.SelectedFileNameText
+		</Label>
+		<fr-CA>Aucun fichier sélectionné</fr-CA>
+		<en-US>
+			No File Selected
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.SelectFileText
+		</Label>
+		<fr-CA>Cliquez pour sélectionner le fichier...</fr-CA>
+		<en-US>
+			Click to select file...
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.UploadFileText
+		</Label>
+		<fr-CA>Télécharger</fr-CA>
+		<en-US>
+			Upload
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.DeleteAllFilesText
+		</Label>
+		<fr-CA>Supprimer tout</fr-CA>
+		<en-US>
+			Delete All
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.DeleteAllFilesTooltipText
+		</Label>
+		<fr-CA>Cliquez ici pour supprimer tous les fichiers</fr-CA>
+		<en-US>
+			Click here to delete all files
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.DeleteAllFilesConfirmText
+		</Label>
+		<fr-CA>Êtes-vous sûr de supprimer tous les fichiers téléchargés ?</fr-CA>
+		<en-US>
+			Are you sure to delete all uploaded files?
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.ErrorMessageMaxFileCountReachedText
+		</Label>
+		<fr-CA>Le nombre de fichiers téléchargés a atteint le nombre maximum de fichiers</fr-CA>
+		<en-US>
+			Uploaded files count reached maximum file count
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.ErrorMessageUploadFilesText
+		</Label>
+		<fr-CA>Télécharger des documents</fr-CA>
+		<en-US>
+			Upload Document(s)
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.FilesDeletedText
+		</Label>
+		<fr-CA>Fichier(s) supprimé(s) avec succès</fr-CA>
+		<en-US>
+			File(s) deleted successfully
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.ErrorMessageFileExistsText
+		</Label>
+		<fr-CA>Un fichier portant ce nom existe déjà. Veuillez sélectionner un autre fichier à télécharger.</fr-CA>
+		<en-US>
+			File with this name already exists. Please select another file to upload.
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.ErrorMessageFileTypeInvalidText
+		</Label>
+		<fr-CA>Le chemin est incorrect ou le type de fichier n'est pas valide</fr-CA>
+		<en-US>
+			Path is incorrect or file type is not valid
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.ErrorMessageFileAlreadyUploadedText
+		</Label>
+		<fr-CA>Ce fichier a déjà été téléchargé</fr-CA>
+		<en-US>
+			This file already has been uploaded
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.FilesUploadedText
+		</Label>
+		<fr-CA>Document téléchargé avec succès</fr-CA>
+		<en-US>
+			Document Uploaded Successfully
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.DeleteSelectedFilesText
+		</Label>
+		<fr-CA>Êtes-vous sûr de supprimer le(s) fichier(s) suivant(s) :</fr-CA>
+		<en-US>
+			Are you sure to delete following file(s):
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10.DeleteSelectedFilesTooltipText
+		</Label>
+		<fr-CA>Cliquez ici pour supprimer</fr-CA>
+		<en-US>
+			Click here to delete
+		</en-US>
+		<DBG2 />
+	</Item>
+	<Item>
+		<Group>
+			UA_DirectDeposit_CAUpload
+		</Group>
+		<Wizard>
+			UA_NES_Canada
+		</Wizard>
+		<Label>
+			FileUpload_10_Validator_1.ErrorMessage
+		</Label>
+		<fr-CA>Doit télécharger le document</fr-CA>
+		<en-US>
+			Must Upload Document
+		</en-US>
+		<DBG2 />
+	</Item>
+</LocalizationDataExchange>
